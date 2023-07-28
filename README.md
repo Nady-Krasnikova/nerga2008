@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Katya</a> 
+<h1 align="center">Приветствую!</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h3 align="center">Меня зовут Екатерина Жилякова, живу и работаю в Росии, город Москва</h3>
 
 <!--
 **nerga2008/nerga2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
